@@ -1,0 +1,8 @@
+{
+  "name": "gestionevera",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
